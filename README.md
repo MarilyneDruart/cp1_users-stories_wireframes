@@ -12,3 +12,6 @@
 | visiteur | accéder aux étapes de la recette | m'organiser dans l'éxécution de la recette |
 | administrateur | rédiger régulièrement un nouvel édito | tenir informés mes visiteurs des actualités |
 | administrateur | pouvoir être contacté via le site | échanger avec mes visiteurs |
+
+## Wireframes
+
