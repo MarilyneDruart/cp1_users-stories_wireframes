@@ -1,7 +1,13 @@
 # Maquetter une application
 
-## User-stories
+Préparer un projet de site web qui réunira des recettes de cuisine. L’affichage sera adapté en fonction du support utilisé (mobile, tablette, écran d’ordinateur (ou desktop), c’est ce qu’on appelle le Responsive Design. Les besoins fondamentaux du client sont consignés dans un document qui regroupe ces fonctionnalités, le MVP (MVP : Produit Minimum Viable).
+La préparation du projet passera par deux sortes de documents à établir à partir du MVP :
+les maquettes (appelées wireframes) qui représentent le site sous la forme de blocs de contenu sans définir l’aspect visuel. Elles doivent être commentées
+les cas d’utilisation (user stories).
+Ces documents permettent de valider avec le client ses attentes.
 
+
+## User-stories
 
 | En tant que | Je veux | Afin de (si besoin/nécessaire) |
 |--|--|--|
