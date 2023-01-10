@@ -1,4 +1,4 @@
-# Maquetter une application
+# Titre Professionnel - Compétence 1 : Maquetter une application
 
 Préparer un projet de site web qui réunira des recettes de cuisine. L’affichage sera adapté en fonction du support utilisé (mobile, tablette, écran d’ordinateur (ou desktop), c’est ce qu’on appelle le Responsive Design. Les besoins fondamentaux du client sont consignés dans un document qui regroupe ces fonctionnalités, le MVP (MVP : Produit Minimum Viable).
 La préparation du projet passera par deux sortes de documents à établir à partir du MVP :
